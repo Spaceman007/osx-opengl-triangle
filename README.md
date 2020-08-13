@@ -21,3 +21,5 @@ $ ./Jupiter
 And you'll see a white triangle in the window.
 
 Since you have this basic development environment, just go on with OpenGL and do anything you want.
+
+![](./imgs/opengl_triangle.png)
